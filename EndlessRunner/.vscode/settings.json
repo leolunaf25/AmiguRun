@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "AmiguRunner.sln"
+    "dotnet.defaultSolution": "EndlessRunner.sln"
 }
